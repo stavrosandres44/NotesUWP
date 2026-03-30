@@ -2,7 +2,9 @@
 
 ![Windows 10](https://img.shields.io/badge/OS-Windows%2010-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0067B8?style=flat-square&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/license-Closed%20Source-red?style=flat-square)
+![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)
+![Status](https://img.shields.io/badge/status-In%20Beta-orange?style=flat-square)
+![Author](https://img.shields.io/badge/made%20by-Stavros-333333?style=flat-square)
 
 **A modern, touch-friendly document editor built on the Universal Windows Platform.**
 
