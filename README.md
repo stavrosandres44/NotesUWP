@@ -50,6 +50,13 @@ NotesUWP is a lightweight text editor designed for creating and editing `.txt` f
 
 ---
 
+## About Windows 8.1 Client
+
+NOPE WE'RE NOT DOING THIS, IT TAKES SO MUCH TIME AND TOKENS, THE WINDOWS 8.1 CLIENT WON'T BE BUILD FROM SCRATCH BUT INSTEAD PORTED
+I'M SO TIRED OF OPUS 4.6 RIPPING OFF THE ELEMENTS OF MY PROJECT IT WILL BE A DIRECT PORT
+
+---
+
 ## 📜 License
 
 This application is **closed source** and may not be modified, decompiled, or redistributed in any way.
